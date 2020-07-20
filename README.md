@@ -14,12 +14,22 @@ inside the current folder or inside the specified one on the command line.
 
 # Data example:
 ## Raw file
-<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true" width="600" style="text-align: center; display: block;">
+<p align="center">
+    <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true" width="600">
+</p>
 ## Left ventricle segmented and rendered in 3D
-<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/p75_112_aug.gif?raw=true" width="600" style="text-align: center;">
+<p align="center">
+    <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/p75_112_aug.gif?raw=true" width="600">
+</p>
 ## Left ventricle circumferential strains visualized in 3D (red = high strain)
-<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/strain112P75.gif?raw=true" width="600" style="text-align: center;">
+<p align="center">
+    <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/strain112P75.gif?raw=true" width="600">
+</p>
 ## Left ventricle ejection fraction output curve
-<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/Left_Ventricle_p75_112_aug_ejectionF_plot.png?raw=true" width="600" style="text-align: center;">
+<p align="center">
+    <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/Left_Ventricle_p75_112_aug_ejectionF_plot.png?raw=true" width="600">
+</p>
 ## Left ventricle circumferential strain output curves
-<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/Myocardium_p75_112_aug_strain_plot.png?raw=true" width="600" style="text-align: center;">
+<p align="center">
+    <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/Myocardium_p75_112_aug_strain_plot.png?raw=true" width="600">
+</p>
