@@ -15,7 +15,7 @@ inside the current folder or inside the specified one on the command line.
 # Data example:
 ## Raw file
 ![alt text](https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true)
-<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true" width="480">
+<img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true" width="600" style="text-align: center;">
 ## Left ventricle segmented and rendered in 3D
 ![alt text](https://github.com/Alexhal9000/CMR-Tools/blob/master/p75_112_aug.gif?raw=true)
 ## Left ventricle circumferential strains visualized in 3D (red = high strain)
