@@ -11,3 +11,7 @@ inside the current folder or inside the specified one on the command line.
 
     python CMRtools.py
     python CMRtools.py /home/User/myFolder/
+
+# Output examples:
+## Raw file
+![alt text](https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true)
