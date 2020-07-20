@@ -14,22 +14,31 @@ inside the current folder or inside the specified one on the command line.
 
 # Data example:
 ## Raw file
+
 <p align="center">
     <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/P75_4D.gif?raw=true" width="600">
 </p>
+
 ## Left ventricle segmented and rendered in 3D
+
 <p align="center">
     <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/p75_112_aug.gif?raw=true" width="600">
 </p>
+
 ## Left ventricle circumferential strains visualized in 3D (red = high strain)
+
 <p align="center">
     <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/strain112P75.gif?raw=true" width="600">
 </p>
+
 ## Left ventricle ejection fraction output curve
+
 <p align="center">
     <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/Left_Ventricle_p75_112_aug_ejectionF_plot.png?raw=true" width="600">
 </p>
+
 ## Left ventricle circumferential strain output curves
+
 <p align="center">
     <img src="https://github.com/Alexhal9000/CMR-Tools/blob/master/Myocardium_p75_112_aug_strain_plot.png?raw=true" width="600">
 </p>
